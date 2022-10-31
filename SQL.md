@@ -19,3 +19,13 @@ cs50.ly/favorites
 - Race Conditions
 - SQL injection Tables
 - 
+
+C- CREATE DATA, INSERT
+
+R- READ DATA
+
+U- UPDATAING DATA
+
+D- DELETE, DROP
+...
+ map to `this`
