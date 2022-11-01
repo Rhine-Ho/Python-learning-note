@@ -1,10 +1,13 @@
 # SQL (sequel structured query language.)
 
-### It's a language for querying databases, storing data in it,updating it, inserting and deleting it in  
+### It's a language for querying databases, storing data, updating data, and inserting and deleting it.
 
-nowadays,it's in indeed web apps and mobile apps,data science analytics and so much more.
-it's really good at storing lots and lots of data.
-cs50.ly/favorites 
+
+
+Nowadays, it's in web and mobile apps, data science analytics, and much more.
+it's good at storing lots and lots of data.
+
+
 
 - Introduction
 - SQL
@@ -17,8 +20,8 @@ cs50.ly/favorites
 - Indexes
 - Python and SQL
 - Race Conditions
-- SQL injection Tables
-- 
+- SQL injection Attacks
+- little Bobby Tables
 
 C- CREATE DATA, INSERT()
 
