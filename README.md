@@ -128,3 +128,12 @@ NCurses 5.9
 SQLite 3.38.4
 
 For licenses and acknowledgements for these and other third-party software incorporated in this Python distribution, please refer to the on-line documentation here.
+
+- Python syntax
+- 程式邏輯
+- 識別Python資料類別與使用時機
+- 正規表示式處理資料
+- 處理文件系統
+- 運用Python網路爬蟲
+- 連結SQL資料庫
+- 處理Excel和csv
