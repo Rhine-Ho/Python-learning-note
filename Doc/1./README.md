@@ -4,6 +4,5 @@
 
 * Use `read()`funtion read the text in the `file.txt`.
 
-* Use `split()`funtion make line break.
+* Use `split()`funtion make line break
 
-* 
