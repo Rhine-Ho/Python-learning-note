@@ -1,4 +1,4 @@
-win = open('winNumber.txt').read().split()
+win = open('lotteryNumber.txt').read().split()
 mine = open('myNumber.txt').read().split()
 
 for i, num in enumerate(mine):
